@@ -39,15 +39,6 @@ Sou um profissional focado em transformar dados brutos em pipelines inteligentes
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreromaooliveira90&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreromaooliveira90&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreromaodeoliveira/)
