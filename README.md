@@ -45,8 +45,7 @@ Sou um profissional focado em transformar dados brutos em pipelines inteligentes
 * **Solução:** Desenvolvimento de um modelo de **Machine Learning** em duas etapas: primeiro, classificando times para os **Playoffs** (com 98% de recall) e, em seguida, prevendo o **Campeão** da liga com modelos de **Gradient Boosting** e **LGBM**.
 * **Habilidades:** Machine Learning (LGBM, Random Forest), Análise Quantitativa, Modelagem Preditiva e Tradução de dados em insights de negócio (Sports Analytics).
 
-* [🔗 Ver repositório do projeto](https://www.google.com/search?q=https://github.com/andreromaooliveira90/NBA-Machine-Learning-Optimization)
-
+* [🔗 Ver repositório do projeto](https://www.google.com/search?q=https://github.com/andreromaooliveira90/NBA)
 ---
 
 ## 📫 Vamos nos conectar?
