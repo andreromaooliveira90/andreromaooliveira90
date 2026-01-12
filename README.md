@@ -21,6 +21,11 @@ Sou um profissional focado em transformar dados brutos em pipelines inteligentes
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Salesforce](https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![SAP](https://img.shields.io/badge/sap-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-FF9900?style=for-the-badge&logo=databricks&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-blueviolet?style=for-the-badge&logo=uipath&logoColor=white)
 
 **Algoritmos e Técnicas:**
 - **Supervisionado:** Regressão Linear/Logística, Árvores de Decisão, Random Forest, XGBoost.
@@ -29,22 +34,22 @@ Sou um profissional focado em transformar dados brutos em pipelines inteligentes
 
 ---
 
-## 🚀 Projeto em Destaque: Automação Fort Atacadista
+## Projeto em Destaque
+
+## 🛒 Automação Fort Atacadista
 
 **Pipeline de Coleta e Monitoramento de Preços**
 * **O Problema:** Necessidade de monitorar preços de forma eficiente e sem intervenção humana manual.
 * **Solução:** Desenvolvimento de um pipeline em **Python** para Web Scraping, tratamento com **Pandas** e orquestração via **GitHub Actions** (execução agendada).
 * **Habilidades:** ETL, Automação (CI/CD), Engenharia de Dados.
-* [🔗 Ver repositório do projeto](https://github.com/andreromaooliveira90/NOME_DO_REPOSITORIO)
+* [🔗 Ver repositório do projeto](https://github.com/andreromaooliveira90/PROJETO_PRECOS_FORT)
 
-## 🏀 Projeto em Destaque: Otimização de Times da NBA
+## 🏀 Otimização de Times da NBA
 
 **Análise Preditiva e Machine Learning no Esporte**
-
 * **O Problema:** Identificar, em meio a décadas de estatísticas, quais fatores realmente determinam o sucesso de uma equipe na temporada regular e nos playoffs.
 * **Solução:** Desenvolvimento de um modelo de **Machine Learning** em duas etapas: primeiro, classificando times para os **Playoffs** (com 98% de recall) e, em seguida, prevendo o **Campeão** da liga com modelos de **Gradient Boosting** e **LGBM**.
 * **Habilidades:** Machine Learning (LGBM, Random Forest), Análise Quantitativa, Modelagem Preditiva e Tradução de dados em insights de negócio (Sports Analytics).
-
 * [🔗 Ver repositório do projeto](https://www.google.com/search?q=https://github.com/andreromaooliveira90/NBA)
 ---
 
