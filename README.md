@@ -9,7 +9,7 @@ Sou um profissional focado em transformar dados brutos em pipelines inteligentes
 * **Pós-graduação (MBA) em Data Science e Analytics** – USP/ESALQ
 * **Pós-graduação (MBA) em Finanças e Controladoria** – USP/ESALQ
 * **Graduação em Economia** – UEM
-* *Foco em modelagem estatística, aprendizado de máquina e análise econométrica.*
+* *Foco em modelagem estatística, aprendizado de máquina, extração e análise de dados.*
 
 ---
 
