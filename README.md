@@ -34,7 +34,7 @@ Sou um profissional focado em transformar dados brutos em pipelines inteligentes
 
 ---
 
-## Projeto em Destaque
+## Projetos em Destaque
 
 ## 🛒 Automação Fort Atacadista
 
@@ -50,7 +50,15 @@ Sou um profissional focado em transformar dados brutos em pipelines inteligentes
 * **O Problema:** Identificar, em meio a décadas de estatísticas, quais fatores realmente determinam o sucesso de uma equipe na temporada regular e nos playoffs.
 * **Solução:** Desenvolvimento de um modelo de **Machine Learning** em duas etapas: primeiro, classificando times para os **Playoffs** (com 98% de recall) e, em seguida, prevendo o **Campeão** da liga com modelos de **Gradient Boosting** e **LGBM**.
 * **Habilidades:** Machine Learning (LGBM, Random Forest), Análise Quantitativa, Modelagem Preditiva e Tradução de dados em insights de negócio (Sports Analytics).
-* [🔗 Ver repositório do projeto](https://www.google.com/search?q=https://github.com/andreromaooliveira90/NBA)
+* [🔗 Ver repositório do projeto](https://github.com/andreromaooliveira90/NBA)
+
+## 🚗 Inteligência de Mercado Automotivo
+
+* **Web Scraping e Clusterização Estratégica (Florianópolis/SC)**
+* **O Problema:** Mapear a dinâmica real de preços e depreciação em um mercado altamente fragmentado, superando barreiras de segurança de dados para identificar padrões de investimento.
+* **Solução:** Desenvolvimento de um pipeline end-to-end que contorna sistemas anti-bot (Click & Hold) via engenharia de requisições, seguido de uma modelagem de Machine Learning (K-Means) que segmentou o mercado em 3 regimes naturais de preço e idade, validando o posicionamento de marcas de luxo com 98% de pureza estatística.
+* **Habilidades:** Web Scraping Avançado (Headers/Cookies), Machine Learning (K-Means, Silhouette Score), Engenharia de Atributos e Inteligência de Mercado (Business Intelligence).
+* [🔗 Ver repositório do projeto](https://github.com/andreromaooliveira90/WEB_MOTORS_FLORIANOPOLIS)
 ---
 
 ## 📫 Vamos nos conectar?
